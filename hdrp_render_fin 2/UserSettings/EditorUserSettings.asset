@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 07080c0304575f595d0b0e7214200e4447161d2c7d7e273374714a37e4b3326b
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 56070156500c500e5f0d5d7713210a4412151b7a29297431292b1865b3e6663d
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b080757000d0f59550b5e21147759134e4f4d2e7d7b2060757d1c36e1b73569
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 545707075051500e080f0d7b40205c44444e197d7d7c73682c284e60e4b2663c
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 530604055654080c0e5a5a7644745944134f1e7c2e2a27682b704d63b3e2303b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5505070256535c080f575871152106444f154a2b2a297235757a4563bbe56539
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0001500055060a585b560873447607444115492929717432282d4b6bb3b4356b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 060952515c565008580b5e7744270f444615402b79702534787c1b61bab7353d
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 530506515d570f0e5e0f097416275a44444e4a2c7e7120667d7e4930b7b53668
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 0700555e0153580b5f5d087744770a4910161c797a7c76657c7b4832b3b7353b
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4baf5e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e3949c8899daa7
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd22fbf23f737e343dcb3307350831f53e061bb4511e19040bb14c1cc0261603d111c61bc4301acd0a19da8f4781ad859a96e7e7c3e8cad7c5affce0f1e2d7f3f7b6febeeaa690e4ffb2f3a2fdf4cddbcff59ed784d185e0808282f0839e91c094df848ad6968bc490bd
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a560393d3511ea7046333e09f7181d02f50a06241708ee0b05bd4a435f95548717f73713d91006c1c309d0effad0d2f9ddffa5828e91f0beb6fdd1cbfceba0b9f0b3bed8e8f5ace4f78c978883d3f59e9d969989eacfcc
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
